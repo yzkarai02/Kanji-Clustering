@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^1.17.0",
-    "@nuxt/test-utils": "^4.3.4",
+    "@nuxt/test-utils": "^4.4.0",
     "@percy/cli": "^1.32.12",
     "@typescript/native": "npm:typescript@^7.0.2",
     "@vitest/coverage-v8": "^5.1.0",
