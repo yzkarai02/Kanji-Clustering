@@ -22,24 +22,24 @@
     "typecheck": "nuxt prepare && nuxi typecheck"
   },
   "dependencies": {
-    "@nuxt/ui": "^4.12.0",
+    "@nuxt/ui": "^4.13.0",
     "@vite-pwa/nuxt": "^1.1.1",
     "@vueuse/nuxt": "^15.0.0",
     "nuxt": "4.6.4",
-    "nuxt-gtag": "5.0.0"
+    "nuxt-gtag": "5.1.0"
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^1.17.0",
     "@nuxt/test-utils": "^4.4.0",
-    "@percy/cli": "^1.32.12",
+    "@percy/cli": "^1.33.0",
     "@typescript/native": "npm:typescript@^7.0.2",
-    "@vitest/coverage-v8": "^5.1.0",
+    "@vitest/coverage-v8": "^5.1.1",
     "@vue/compiler-sfc": "3.5.45",
-    "@vue/test-utils": "^2.5.1",
-    "eslint": "^10.14.0",
+    "@vue/test-utils": "^2.6.0",
+    "eslint": "^10.15.0",
     "happy-dom": "^21.0.4",
     "typescript": "npm:@typescript/typescript6@^6.0.2",
-    "vitest": "^5.1.0",
+    "vitest": "^5.1.1",
     "vue": "3.5.45",
     "vue-tsc": "3.3.14"
   }
