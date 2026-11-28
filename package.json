@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^4.13.0",
-    "@vite-pwa/nuxt": "^1.1.1",
+    "@vite-pwa/nuxt": "^2.0.2",
     "@vueuse/nuxt": "^15.0.0",
     "nuxt": "4.6.4",
     "nuxt-gtag": "5.1.0"
